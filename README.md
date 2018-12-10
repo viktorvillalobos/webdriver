@@ -13,4 +13,5 @@
 __Nota:__ El binario de chromedriver fue modificado para remover la variable 
 $cdc de chromedriver usando vim https://stackoverflow.com/a/52108199/7663274
 
-1. Mover el chromedriver a /usr/bin/ `sudo mv chromedriver /usr/bin/`
+1. Extraer el archivo chromedriver.zip `unzip chromedriver.zip`
+2. Mover el chromedriver a /usr/bin/ `sudo mv chromedriver /usr/bin/`
