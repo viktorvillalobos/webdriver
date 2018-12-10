@@ -4,7 +4,7 @@
 
 1. Descargar google chrome de https://www.slimjet.com/chrome/download-chrome.php?file=lnx%2Fchrome64_61.0.3163.79.deb
 2. Desinstalar google chrome actual `sudo apt-get purge google-chrome-stable` 
-3. Instalar google chrome antiguo `dpkg -i chrome64_61.0.3163.79.deb`
+3. Instalar google chrome antiguo `sudo dpkg -i chrome64_61.0.3163.79.deb`
 
 - - - -
 
